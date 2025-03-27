@@ -1,6 +1,6 @@
 Luis Ruben Velasquez Garcia  
 Carnet 24011341  
-Tarea 13 - Curso JavaScript Testing  (P)
+Tarea 13 - Curso JavaScript Testing
 
 # INSTRUCCIONES
 
